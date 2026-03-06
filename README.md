@@ -3,7 +3,7 @@
 ## 🌐 Portfolio
 
 > 🚀 **Andrew C. Baldonado** — Software Developer
-> [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andrewbdev.vercel.app/)
+> [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20)](https://andrewbdev.vercel.app/)
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=drewkees&style=for-the-badge&color=4ade80&label=PROFILE+VIEWS)
