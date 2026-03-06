@@ -1,7 +1,16 @@
 # Hi, I'm Andrew Baldonado 👋
 
+![Visitors](https://komarev.com/ghpvc/?username=acbaldonado&color=blue&style=for-the-badge)
+
 💻 **Software Developer** | VB.NET · Web · Embedded Systems  
 ⚡ Full-Stack to Hardware — I build solutions that bridge software and the physical world.
+
+---
+
+## 🌐 Portfolio
+
+> 🚀 **Andrew C. Baldonado** — Software Developer & AI Automation Specialist  
+> [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andrewbdev.vercel.app/)
 
 ---
 
@@ -30,7 +39,12 @@
 ## 📊 GitHub Stats
 
 ![Andrew's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acbaldonado&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acbaldonado&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=acbaldonado&theme=tokyonight&row=1&no-frame=true)
 
 ---
 
@@ -43,4 +57,4 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/andrew-b-38134927b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baldonado0514@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baldonado0514@gmail.com)
