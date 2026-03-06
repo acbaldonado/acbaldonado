@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 ![Andrew's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acbaldonado&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acbaldonado&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acbaldonado&theme=tokyonight)
 
 ---
 
