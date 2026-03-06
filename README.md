@@ -36,15 +36,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![Andrew's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acbaldonado&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=acbaldonado&theme=tokyo-night)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=acbaldonado&theme=tokyonight&row=1&no-frame=true)
+![Trophies](https://github-trophies.vercel.app/?username=acbaldonado&theme=tokyonight&no-frame=true)
 
 ---
 
